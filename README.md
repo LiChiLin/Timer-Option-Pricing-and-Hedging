@@ -80,7 +80,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contribution
 
 - Chi-lin Li, Wenlin Tang, Zhixin Zhang, and Hongzhen Du contributed equally to this project.
-
----
-
-This README provides a structured overview of your project, covering its core methodologies, results, and usage instructions. Let me know if you need further adjustments!
